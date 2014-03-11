@@ -24,7 +24,7 @@ public class CalculaFactorial {
 
 	public static void main(String[] args) {
 		CalculaFactorial f = new CalculaFactorial();
-		int num=8;
+		int num=5;
 		System.out.println(f.calcfac(num));
 
 	}
